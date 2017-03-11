@@ -10,7 +10,7 @@ body {
 	position:	relative; /* 相対位置指定 */
 }
 .back img {
-	width:		70%;
+	width:		100%;
 }
 .text {
 	width:		70%;
