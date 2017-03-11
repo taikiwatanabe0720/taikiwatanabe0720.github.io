@@ -1,0 +1,46 @@
+body {
+	background-color:#f83;
+	font-family:"MS PGothic";
+}
+
+.back {
+	width:		100%;
+	margin:		0;
+	padding:	0;
+	position:	relative; /* 相対位置指定 */
+}
+.back img {
+	width:		70%;
+}
+.text {
+	width:		70%;
+	font-size:	300%;
+	font-weight:bold;
+    font-family:"MS Gothic";
+	text-align:	center;
+	bottom:	    2px;
+	margin:		0;
+	padding:	0;
+	color:		#f40;
+	background:	rgba(200,200,00,0.7); /* 帯の透明度 */
+	position:	relative; /* 絶対位置指定 */
+}
+
+li {
+    display:inline-block;
+    background-color:#eee;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #999;
+  font-size:150%;
+  font-weight: bold;
+  padding: 10px 5px;
+}
+
+
+.container {
+	background-color:#ffc;
+	font-size:120%;
+}
